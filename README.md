@@ -1,53 +1,23 @@
-# Data Science Projects
-Repository of Data Science Projects
+### Project Description
 
-This repository contains the data science projects I completed as part of a single course. The projects span topics such as Basic Python, Data Preprocessing, Statistical Data Analysis, Exploratory Data Analysis, SQL, Machine Learning, Linear Algebra, Numerical Methods, Time Series Analysis, Text-Based Machine Learning, Computer Vision, and integrated projects.
+This project analyzes online music streaming data to compare user behavior between two cities: Springfield and Shelbyville. The main objective is to test the hypothesis that **user activity varies depending on the day of the week and the city**.
 
-#### Project 1: [Data Quality Assessment](https://github.com/CARB85/Data_scientist_projects/tree/Project-1-Data-Quality-Assessment)
-Evaluating and preparing Store 1's customer dataset to ensure accuracy and readiness for analysis, supporting data-driven decisions to enhance the online shopping experience.
+The analysis is divided into three stages:
 
----------------------------------------------
-#### Project 2: [Music Streaming Behavior Analysis](https://github.com/CARB85/Data_scientist_projects/tree/Project-2-Music-Streaming-Behavior-Analysis)
-This project analyzes music streaming data to compare user behavior in Springfield and Shelbyville, focusing on how activity varies by day of the week and city.
+- **Data Description**: Initial exploration and key observations.  
+- **Data Preprocessing**: Data cleaning, including handling column names, duplicates, and missing values.  
+- **Hypothesis Testing**: Evaluating the proposed hypothesis through data analysis.  
 
----------------------------------------------
-#### Project 3 Exploratory Data Analysis : 
+### Data
 
----------------------------------------------
-#### Project 4 Statistical Data Analysis : 
+The data is stored in the `/datasets/music_project_en.csv` file and includes the following columns:
 
----------------------------------------------
-#### Project 5 Integrated Project 1 : 
+- **userID**: Unique identifier for each user.  
+- **Track**: Song title.  
+- **artist**: Artist name.  
+- **genre**: Music genre.  
+- **City**: User's city.  
+- **time**: Time the track was played (HH:MM:SS).  
+- **Day**: Day of the week.  
 
----------------------------------------------
-#### Project 6 Data Collection and Storage :
-
----------------------------------------------
-#### Project 7 Introduction to Machine Learning : 
----------------------------------------------
-#### Project 8 Supervised Learning : 
-
----------------------------------------------
-#### Project 9 Machine Learning in Business : 
-
----------------------------------------------
-#### Project 10 Integrated Project 2 : 
----------------------------------------------
-#### Project 11 Linear Algebra : 
-
----------------------------------------------
-#### Project 12 Numerical Methods : 
----------------------------------------------
-#### Project 13 Time Series :
-
----------------------------------------------
-#### Project 14 Machine Learning For Text : 
----------------------------------------------
-#### Project 15 Computer Vision : 
-
----------------------------------------------
-#### Project 16 Unsupervised Learning : No Project
-Learn how to look for patterns in unlabeled data. No special projects available in this sprint.
-
----------------------------------------------
-#### Project 17 Final Project : 
+This analysis will provide valuable insights into the differences in music preferences between the two cities.
