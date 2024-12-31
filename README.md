@@ -7,7 +7,9 @@ This repository contains the data science projects I completed as part of a sing
 Evaluating and preparing Store 1's customer dataset to ensure accuracy and readiness for analysis, supporting data-driven decisions to enhance the online shopping experience.
 
 ---------------------------------------------
-#### Project 2 Data Pre-processing : 
+#### Project 2: [Music Streaming Behavior Analysis](https://github.com/CARB85/Data_scientist_projects/tree/Project-2-Music-Streaming-Behavior-Analysis)
+This project analyzes music streaming data to compare user behavior in Springfield and Shelbyville, focusing on how activity varies by day of the week and city.
+
 ---------------------------------------------
 #### Project 3 Exploratory Data Analysis : 
 
