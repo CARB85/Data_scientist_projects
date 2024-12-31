@@ -11,11 +11,12 @@ Evaluating and preparing Store 1's customer dataset to ensure accuracy and readi
 This project analyzes music streaming data to compare user behavior in Springfield and Shelbyville, focusing on how activity varies by day of the week and city.
 
 ---------------------------------------------
-#### Project 3 :  [Instacart Consumer Trends Analysis](https://github.com/CARB85/Data_scientist_projects/tree/Project-3-Instacart-Consumer-Trends-Analysis)
+#### Project 3:  [Instacart Consumer Trends Analysis](https://github.com/CARB85/Data_scientist_projects/tree/Project-3-Instacart-Consumer-Trends-Analysis)
 This initiative examines grocery shopping data from Instacart to uncover customer purchasing trends, emphasizing order behaviors, popular items, and reorder frequencies.
 
 ---------------------------------------------
-#### Project 4 Statistical Data Analysis : 
+#### Project 4:  [Analysis of Prepaid Plan Revenues for Megaline](https://github.com/CARB85/Data_scientist_projects/tree/Project-4-Analysis-of-Prepaid-Plan-Revenues-for-Megaline)
+This project analyzes Megaline's two prepaid plans, Surf and Ultimate, to determine which generates more revenue by examining customer patterns, activities, and usage of calls, SMS, and internet.
 
 ---------------------------------------------
 #### Project 5 Integrated Project 1 : 
