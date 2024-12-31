@@ -1,54 +1,74 @@
-# Data Science Projects
-Repository of Data Science Projects
+# Project: Instacart Data Analysis
 
-This repository contains the data science projects I completed as part of a single course. The projects span topics such as Basic Python, Data Preprocessing, Statistical Data Analysis, Exploratory Data Analysis, SQL, Machine Learning, Linear Algebra, Numerical Methods, Time Series Analysis, Text-Based Machine Learning, Computer Vision, and integrated projects.
+## Project Description
 
-#### Project 1: [Data Quality Assessment](https://github.com/CARB85/Data_scientist_projects/tree/Project-1-Data-Quality-Assessment)
-Evaluating and preparing Store 1's customer dataset to ensure accuracy and readiness for analysis, supporting data-driven decisions to enhance the online shopping experience.
+This project utilizes data provided by the grocery delivery platform Instacart, which allows users to place orders for home delivery. The dataset has been modified to simplify analysis by reducing its size and introducing common issues such as missing values and duplicates. Your task is to clean the data and perform exploratory analysis to understand the shopping habits of Instacart customers.
 
----------------------------------------------
-#### Project 2: [Music Streaming Behavior Analysis](https://github.com/CARB85/Data_scientist_projects/tree/Project-2-Music-Streaming-Behavior-Analysis)
-This project analyzes music streaming data to compare user behavior in Springfield and Shelbyville, focusing on how activity varies by day of the week and city.
+The analysis should include clear, well-labeled visualizations to explain the results. All answers must be accompanied by a brief markdown explanation.
 
----------------------------------------------
-#### Project 3 :  [Instacart Consumer Trends Analysis](https://github.com/CARB85/Data_scientist_projects/tree/Project-3-Instacart-Consumer-Trends-Analysis)
-This initiative examines grocery shopping data from Instacart to uncover customer purchasing trends, emphasizing order behaviors, popular items, and reorder frequencies.
+## Data Dictionary
 
----------------------------------------------
-#### Project 4 Statistical Data Analysis : 
+### `instacart_orders.csv`
+- **order_id**: Unique ID for each order.
+- **user_id**: Unique ID for each customer.
+- **order_number**: Number of orders placed by the customer.
+- **order_dow**: Day of the week the order was placed (0: Sunday).
+- **order_hour_of_day**: Hour of the day the order was placed.
+- **days_since_prior_order**: Days since the customer's previous order.
 
----------------------------------------------
-#### Project 5 Integrated Project 1 : 
+### `products.csv`
+- **product_id**: Unique ID for each product.
+- **product_name**: Name of the product.
+- **aisle_id**: ID of the grocery aisle.
+- **department_id**: ID of the grocery department.
 
----------------------------------------------
-#### Project 6 Data Collection and Storage :
+### `order_products.csv`
+- **order_id**: Unique ID for each order.
+- **product_id**: Unique ID for each product.
+- **add_to_cart_order**: Sequential order in which the product was added to the cart.
+- **reordered**: Indicates if the product was ordered previously (1: Yes, 0: No).
 
----------------------------------------------
-#### Project 7 Introduction to Machine Learning : 
----------------------------------------------
-#### Project 8 Supervised Learning : 
+### `aisles.csv`
+- **aisle_id**: Unique ID for the aisle.
+- **aisle**: Name of the aisle.
 
----------------------------------------------
-#### Project 9 Machine Learning in Business : 
+### `departments.csv`
+- **department_id**: Unique ID for the department.
+- **department**: Name of the department.
 
----------------------------------------------
-#### Project 10 Integrated Project 2 : 
----------------------------------------------
-#### Project 11 Linear Algebra : 
+## Instructions for Completing the Project
 
----------------------------------------------
-#### Project 12 Numerical Methods : 
----------------------------------------------
-#### Project 13 Time Series :
+### Step 1: Initial Exploration
+1. Load the datasets (`instacart_orders.csv`, `products.csv`, `aisles.csv`, `departments.csv`, `order_products.csv`).
+2. Review the content of each table and adjust arguments as needed to read the files correctly.
 
----------------------------------------------
-#### Project 14 Machine Learning For Text : 
----------------------------------------------
-#### Project 15 Computer Vision : 
+### Step 2: Data Preprocessing
+- **Validation and Corrections**: Adjust incorrect data types.
+- **Handling Missing Values**: Identify, analyze, and impute missing values.
+- **Removing Duplicates**: Identify and remove duplicate rows, explaining the methods used.
 
----------------------------------------------
-#### Project 16 Unsupervised Learning : No Project
-Learn how to look for patterns in unlabeled data. No special projects available in this sprint.
+### Step 3: Data Analysis
+#### [A] Validation and Initial Visualizations
+1. Validate `order_hour_of_day` and `order_dow` column values.
+2. Create visualizations for:
+   - Orders by hour of the day.
+   - Orders by day of the week.
+   - Time between consecutive orders.
 
----------------------------------------------
-#### Project 17 Final Project : 
+#### [B] Comparisons and Frequencies
+1. Compare the distribution of `order_hour_of_day` for Wednesdays and Saturdays.
+2. Plot the distribution of the number of orders per customer.
+3. Identify the 20 most frequently ordered products.
+
+#### [C] Order and Product Analysis
+1. Analyze the average number of items per order.
+2. Identify the 20 most reordered products.
+3. Calculate the reorder ratio for each product and customer.
+4. Identify the 20 most frequently first-added products to the cart.
+
+### Visualization Requirements
+All visualizations must include:
+- Clear titles.
+- Labeled axes.
+- Legends if needed.
+- Use of `plt.show()` at the end of each visualization cell.
