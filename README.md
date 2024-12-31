@@ -11,7 +11,8 @@ Evaluating and preparing Store 1's customer dataset to ensure accuracy and readi
 This project analyzes music streaming data to compare user behavior in Springfield and Shelbyville, focusing on how activity varies by day of the week and city.
 
 ---------------------------------------------
-#### Project 3 Exploratory Data Analysis : 
+#### Project 3 :  [Instacart Consumer Trends Analysis](https://github.com/CARB85/Data_scientist_projects/tree/Project-3-Instacart-Consumer-Trends-Analysis)
+This initiative examines grocery shopping data from Instacart to uncover customer purchasing trends, emphasizing order behaviors, popular items, and reorder frequencies.
 
 ---------------------------------------------
 #### Project 4 Statistical Data Analysis : 
