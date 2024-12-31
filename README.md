@@ -65,10 +65,3 @@ The analysis should include clear, well-labeled visualizations to explain the re
 2. Identify the 20 most reordered products.
 3. Calculate the reorder ratio for each product and customer.
 4. Identify the 20 most frequently first-added products to the cart.
-
-### Visualization Requirements
-All visualizations must include:
-- Clear titles.
-- Labeled axes.
-- Legends if needed.
-- Use of `plt.show()` at the end of each visualization cell.
