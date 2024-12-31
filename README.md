@@ -10,7 +10,7 @@ The analysis is divided into three stages:
 
 ### Data
 
-The data is stored in the `/datasets/music_project_en.csv` file and includes the following columns:
+The data is called music_project_en.csv` file and includes the following columns:
 
 - **userID**: Unique identifier for each user.  
 - **Track**: Song title.  
