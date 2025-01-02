@@ -27,11 +27,12 @@ This project focuses on building and deploying a Python-based web application to
 This project aims to analyze global video game sales data to identify patterns that determine a game's success, helping plan advertising campaigns for 2017.
 
 ---------------------------------------------
-#### Project 7:  [Exploring Taxi Ride Trends and Weather Effects in Chicago](https://github.com/CARB85/Data_scientist_projects/tree/Project-7-Exploring-Taxi-Ride-Trends-and-Weather-Effects-in-Chicago)
+#### Project 7 Data Collection and Storage:  [Exploring Taxi Ride Trends and Weather Effects in Chicago](https://github.com/CARB85/Data_scientist_projects/tree/Project-7-Exploring-Taxi-Ride-Trends-and-Weather-Effects-in-Chicago)
 This project focuses on analyzing Chicago taxi trip data to identify passenger preferences and assess how external factors, like weather, influence travel trends.
 
 ---------------------------------------------
-#### Project 8 Supervised Learning : 
+#### Project 8 Introduction to Machine Learning: [Customer Plan Recommendation Model](https://github.com/CARB85/Data_scientist_projects/tree/Project-8-Customer-Plan-Recommendation-Model)
+Megaline wants to develop a model to recommend one of their new plans, Smart or Ultra, based on user behavior data, aiming for an accuracy of at least 0.75.
 
 ---------------------------------------------
 #### Project 9 Machine Learning in Business : 
