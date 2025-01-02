@@ -39,7 +39,9 @@ Megaline wants to develop a model to recommend one of their new plans, Smart or 
 The project focuses on predicting if a Beta Bank customer will leave soon, using historical customer behavior data, aiming for an F1 score of at least 0.59 and comparing it with the AUC-ROC metric.
 
 ---------------------------------------------
-#### Project 10 Integrated Project 2 : 
+#### Project 10: [Oil Well Location Optimization for OilyGiant](https://github.com/CARB85/Data_scientist_projects/tree/Project-10-Oil-Well-Location-Optimization-for-OilyGiant)
+In this project, you work for OilyGiant to identify the best locations for drilling 200 new oil wells by predicting reserve volumes and selecting the region with the highest potential profit, using linear regression and bootstrapping techniques for risk analysis.
+
 ---------------------------------------------
 #### Project 11 Linear Algebra : 
 
