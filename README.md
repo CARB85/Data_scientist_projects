@@ -43,7 +43,8 @@ The project focuses on predicting if a Beta Bank customer will leave soon, using
 In this project, you work for OilyGiant to identify the best locations for drilling 200 new oil wells by predicting reserve volumes and selecting the region with the highest potential profit, using linear regression and bootstrapping techniques for risk analysis.
 
 ---------------------------------------------
-#### Project 11 Linear Algebra : 
+#### Project 11 Linear Algebra : [Insurance Benefits Prediction with Data Masking](https://github.com/CARB85/Data_scientist_projects/tree/Project-11-Insurance-Benefits-Prediction-with-Data-Masking)
+Sure Tomorrow Insurance is working on using machine learning for tasks such as customer similarity, predicting insurance benefits, and ensuring data privacy through obfuscation methods without affecting model quality
 
 ---------------------------------------------
 #### Project 12 Numerical Methods : 
