@@ -19,7 +19,8 @@ This initiative examines grocery shopping data from Instacart to uncover custome
 This project analyzes Megaline's two prepaid plans, Surf and Ultimate, to determine which generates more revenue by examining customer patterns, activities, and usage of calls, SMS, and internet.
 
 ---------------------------------------------
-#### Project 5 Integrated Project 1 : 
+#### Project 5: [Web Application Development and Deployment with Streamlit](https://github.com/CARB85/Data_scientist_projects/tree/Project-5-Web-Application-Development-and-Deployment-with-Streamlit)
+This project analyzes Megaline's two prepaid plans, Surf and Ultimate, to determine which generates more revenue by examining customer patterns, activities, and usage of calls, SMS, and internet.
 
 ---------------------------------------------
 #### Project 6 Data Collection and Storage :
