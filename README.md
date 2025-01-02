@@ -44,7 +44,9 @@ Data about the weather.
 - `description`: A brief description of the weather conditions, e.g., "light rain" or "scattered clouds"
 
 ### Table Schema
-![Database Schema](image_url)
+
+![image](https://github.com/user-attachments/assets/c04e2e90-3c7a-43ef-9b63-09e43d1bc678)
+
 
 Note: There is no direct connection between the `trips` and `weather_records` tables in the database. However, you can use JOIN and link them using the trip start time (`trips.start_ts`) and the weather record timestamp (`weather_records.ts`).
 
