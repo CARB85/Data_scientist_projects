@@ -23,7 +23,8 @@ This project analyzes Megaline's two prepaid plans, Surf and Ultimate, to determ
 This project focuses on building and deploying a Python-based web application to analyze datasets interactively, emphasizing practical software engineering tasks like virtual environment management, exploratory data analysis, and cloud hosting.
 
 ---------------------------------------------
-#### Project 6 Data Collection and Storage :
+#### Project 6: [Video Game Sales Prediction and Market Insights](https://github.com/CARB85/Data_scientist_projects/tree/Project-5-Video-Game-Sales-Prediction-and-Market-Insights)
+This project aims to analyze global video game sales data to identify patterns that determine a game's success, helping plan advertising campaigns for 2017.
 
 ---------------------------------------------
 #### Project 7 Introduction to Machine Learning : 
