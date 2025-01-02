@@ -49,4 +49,3 @@ Explain:
 - **Rating**: ESRB rating
 
 Note: The 2016 data might be incomplete.
-```
