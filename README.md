@@ -6,6 +6,8 @@ You are working as an analyst for Zuber, a new rideshare company launching in Ch
 
 While working with the database, you will analyze competitor data and test a hypothesis about the impact of weather on trip frequency.
 
+This analysis represents the third part of our project, which focused on data collection and storage in the Practicum course. See here for the first two parts: Web Scraping & SQL.
+
 ## Data Description
 
 The database contains information about taxi rides in Chicago:
