@@ -1,4 +1,4 @@
-# Beta Bank Customer Churn Prediction
+# Customer Churn Prediction for Beta Bank
 
 ## Project Description
 
