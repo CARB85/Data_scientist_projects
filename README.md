@@ -28,7 +28,7 @@ This project aims to analyze global video game sales data to identify patterns t
 
 ---------------------------------------------
 #### Project 7:  [Exploring Taxi Ride Trends and Weather Effects in Chicago](https://github.com/CARB85/Data_scientist_projects/tree/Project-7-Exploring-Taxi-Ride-Trends-and-Weather-Effects-in-Chicago)
-This project aims to analyze global video game sales data to identify patterns that determine a game's success, helping plan advertising campaigns for 2017.
+This project focuses on analyzing Chicago taxi trip data to identify passenger preferences and assess how external factors, like weather, influence travel trends.
 
 ---------------------------------------------
 #### Project 8 Supervised Learning : 
