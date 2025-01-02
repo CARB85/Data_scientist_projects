@@ -35,7 +35,8 @@ This project focuses on analyzing Chicago taxi trip data to identify passenger p
 Megaline wants to develop a model to recommend one of their new plans, Smart or Ultra, based on user behavior data, aiming for an accuracy of at least 0.75.
 
 ---------------------------------------------
-#### Project 9 Machine Learning in Business : 
+#### Project 9 Machine Learning in Business : [Customer Churn Prediction for Beta Bank](https://github.com/CARB85/Data_scientist_projects/tree/Project-9-Customer-Churn-Prediction-for-Beta-Bank)
+The project focuses on predicting if a Beta Bank customer will leave soon, using historical customer behavior data, aiming for an F1 score of at least 0.59 and comparing it with the AUC-ROC metric.
 
 ---------------------------------------------
 #### Project 10 Integrated Project 2 : 
