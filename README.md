@@ -1,5 +1,3 @@
-# Video Game Sales Prediction Project
-
 ## Project Description
 
 You are working for the online store *Ice*, which sells video games worldwide. User and expert reviews, game genres, platforms (such as Xbox or PlayStation), and historical sales data are available from open sources. Your task is to identify patterns that determine whether a game is successful or not. This will allow you to detect promising projects and plan advertising campaigns.
