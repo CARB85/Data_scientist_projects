@@ -51,7 +51,8 @@ Sure Tomorrow Insurance is working on using machine learning for tasks such as c
 Rusty Bargain is developing an app to estimate the market value of used cars, requiring the creation of a model to predict car prices based on various features.
 
 ---------------------------------------------
-#### Project 13 Time Series :
+#### Project 13 Time Series : [Taxi Order Prediction for Peak Hours](https://github.com/CARB85/Data_scientist_projects/tree/Project-13-Taxi-Order-Prediction-for-Peak-Hours)
+The Sweet Lift Taxi project aims to predict the number of taxi orders for the next hour based on historical data to attract more drivers during peak hours, with an RECM threshold of 48 on the test set.
 
 ---------------------------------------------
 #### Project 14 Machine Learning For Text : 
