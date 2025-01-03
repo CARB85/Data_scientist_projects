@@ -55,7 +55,9 @@ Rusty Bargain is developing an app to estimate the market value of used cars, re
 The Sweet Lift Taxi project aims to predict the number of taxi orders for the next hour based on historical data to attract more drivers during peak hours, with an RECM threshold of 48 on the test set.
 
 ---------------------------------------------
-#### Project 14 Machine Learning For Text : 
+#### Project 14 Machine Learning For Text :  [Movie Review Sentiment Classification](https://github.com/CARB85/Data_scientist_projects/tree/Project-14-Movie-Review-Sentiment-Classification)
+The Film Junky Union project aims to develop a system that automatically detects negative movie reviews using a labeled IMDb dataset, with a goal of achieving an F1 score of at least 0.85.
+
 ---------------------------------------------
 #### Project 15 Computer Vision : 
 
