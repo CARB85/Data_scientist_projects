@@ -47,7 +47,9 @@ In this project, you work for OilyGiant to identify the best locations for drill
 Sure Tomorrow Insurance is working on using machine learning for tasks such as customer similarity, predicting insurance benefits, and ensuring data privacy through obfuscation methods without affecting model quality
 
 ---------------------------------------------
-#### Project 12 Numerical Methods : 
+#### Project 12 Numerical Methods : [Market Value Prediction for Used Cars](https://github.com/CARB85/Data_scientist_projects/tree/Project-12-Market-Value-Prediction-for-Used-Cars)
+Rusty Bargain is developing an app to estimate the market value of used cars, requiring the creation of a model to predict car prices based on various features.
+
 ---------------------------------------------
 #### Project 13 Time Series :
 
