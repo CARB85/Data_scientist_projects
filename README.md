@@ -59,7 +59,8 @@ The Sweet Lift Taxi project aims to predict the number of taxi orders for the ne
 The Film Junky Union project aims to develop a system that automatically detects negative movie reviews using a labeled IMDb dataset, with a goal of achieving an F1 score of at least 0.85.
 
 ---------------------------------------------
-#### Project 15 Computer Vision : 
+#### Project 15 Computer Vision : [Age Verification with Computer Vision](https://github.com/CARB85/Data_scientist_projects/tree/Project-15-Age-Verification-with-Computer-Vision)
+The project aims to explore whether data science can help Good Seed supermarket comply with alcohol laws by using computer vision to verify customers' age when purchasing alcohol.
 
 ---------------------------------------------
 #### Project 16 Unsupervised Learning : No Project
