@@ -67,4 +67,5 @@ The project aims to explore whether data science can help Good Seed supermarket 
 Learn how to look for patterns in unlabeled data. No special projects available in this sprint.
 
 ---------------------------------------------
-#### Project 17 Final Project : 
+#### Project 17 Final Project : [Customer Churn Prediction for Interconnect](https://github.com/CARB85/Data_scientist_projects/tree/Final-Project-Customer-Churn-Prediction-for-Interconnect)
+This project aims to develop a machine learning model for Interconnect to predict customer churn, enabling proactive retention strategies through personalized offers and promotions.
